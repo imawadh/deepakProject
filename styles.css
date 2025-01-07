@@ -1,4 +1,4 @@
-/* General Reset */
+/* Universal Reset */
 * {
     margin: 0;
     padding: 0;
@@ -151,10 +151,9 @@ footer {
     }
 }
 
-/* Confirmation Message */
 #confirmation-message {
     font-size: 18px;
-    color: #28a745;  /* Green color for success */
+    color: #28a745;  
     font-weight: bold;
     margin-top: 20px;
 }
